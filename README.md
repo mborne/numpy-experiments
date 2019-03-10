@@ -12,5 +12,11 @@ Looking for best parameters for a noisy line :
 
 ![data/noisy-line.png](data/noisy-line.png)
 
-## TODO
+## 02-noisy-circle
+
+Looking for best parameters for a noisy line :
+
+[02-noisy-circle.py](01-noisy-circle.py)
+
+![data/noisy-circle.png](data/noisy-circle.png)
 
