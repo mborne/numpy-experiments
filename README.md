@@ -6,7 +6,7 @@ Some examples written to test [numpy](https://docs.scipy.org/doc/numpy/user/quic
 
 ## 01-noisy-line
 
-Looking for best parameters for a noisy line :
+Estimate line using least squares :
 
 [01-noisy-line.py](01-noisy-line.py)
 
@@ -14,9 +14,14 @@ Looking for best parameters for a noisy line :
 
 ## 02-noisy-circle
 
-Looking for best parameters for a noisy line :
+Estimate circle using least squares with linearisation :
 
-[02-noisy-circle.py](01-noisy-circle.py)
+[02-noisy-circle.py](02-noisy-circle.py)
 
 ![data/noisy-circle.png](data/noisy-circle.png)
 
+## 03-noisy-circle-tf
+
+Estimate circle using GradientDescentOptimizer from tensorflow :
+
+[02-noisy-circle-tf.py](01-noisy-circle-tf.py)
