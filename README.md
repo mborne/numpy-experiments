@@ -2,7 +2,7 @@
 
 ## Description
 
-Some examples written to test [numpy](https://docs.scipy.org/doc/numpy/user/quickstart.html) and [matplotlib](https://matplotlib.org/index.html).
+Some basic examples written to test [numpy](https://docs.scipy.org/doc/numpy/user/quickstart.html), [matplotlib](https://matplotlib.org/index.html) and [tensorflow](https://www.tensorflow.org/).
 
 ## 01-noisy-line
 
