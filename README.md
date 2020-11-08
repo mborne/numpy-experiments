@@ -22,6 +22,8 @@ Estimate circle using least squares with linearisation :
 
 ## 03-noisy-circle-tf
 
-Estimate circle using GradientDescentOptimizer from tensorflow :
+Estimate circle using gradient descent (`tf.keras.optimizers.SGD`) from tensorflow V2 :
 
-[02-noisy-circle-tf.py](01-noisy-circle-tf.py)
+[03-noisy-circle-tf.py](03-noisy-circle-tf.py)
+
+![data/noisy-circle.png](data/noisy-circle.png)
