@@ -6,7 +6,6 @@ xy=np.loadtxt(open("data/noisy-circle.csv", "rb"), delimiter=",", skiprows=1)
 x_vals=xy[:,0]
 y_vals=xy[:,1]
 
-
 def estimate_circle(x,y):
     # F(X) = ( x - cx ) ^ 2 + ( y - cy ) ^ 2 - r^2
 
