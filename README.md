@@ -19,3 +19,7 @@ uv sync
 # start jupyter notebook (should open browser)
 uv run --with jupyter jupyter lab
 ```
+
+## License
+
+[MIT](LICENSE)
