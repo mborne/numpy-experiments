@@ -1,4 +1,4 @@
-# numpy-experiment
+# numpy-experiments
 
 Some basic examples to test [numpy](https://docs.scipy.org/doc/numpy/user/quickstart.html), [matplotlib](https://matplotlib.org/index.html), [tensorflow](https://www.tensorflow.org/) and [pytorch].
 
